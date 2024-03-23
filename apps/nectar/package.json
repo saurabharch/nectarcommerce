@@ -7,7 +7,7 @@
     "babel-preset-stage-0": "^6.3.13",
     "babel-preset-stage-2": "^6.3.13",
     "bower": "~1.7.7",
-    "brunch": "~2.2.3",
+    "brunch": "~3.0.0",
     "clean-css-brunch": "~1.8.0",
     "css-brunch": "~1.7.0",
     "es6-promise": "^3.0.2",
